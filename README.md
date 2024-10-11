@@ -6,8 +6,9 @@ Following techniques were used to implement
 -Data Collection and Preprocessing
 -Feature Engineering
 -Exploratory Data Analysis
- -Modeling and Prediction(Logistic Regression,Decision Trees,Random                   
+-Modeling and Prediction(Logistic Regression,Decision Trees,Random                   
    Forest,Naives Bayes and KNN)
+   
  Tools used
 -Programming Languages- Python (with libraries such as Pandas, NumPy, SciKit-Learn,)
-- Visualization Tools-Matplotlib, Seaborn, Plotly for data visualization.
+-Visualization Tools-Matplotlib, Seaborn, Plotly for data visualization.
