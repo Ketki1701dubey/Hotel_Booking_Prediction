@@ -1,4 +1,5 @@
-# Hotel_Booking_Prediction
+# Hotel_Booking_Prediction using Supervised Learning
+
 
 The project aims to predict whether a hotel booking will be canceled based on various features, including spatial information and numerical data. The model will be developed using  machine learning classification algorithms such as logistic regression and other classification techniques.
 
